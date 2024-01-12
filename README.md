@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+# ✨ I'm Yaël ✨
 
-<!--
-**YaelBusser/YaelBusser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 About Me:
+- 🔭 I’m currently working on Makee, a web app where you can manage and participate at challenges ! (Makee)[https://test.makee.io/]
+- 🌱 I’m currently learning React Native in order to develop a mobile application for a project in concert with 4 mates in my school.
+- 👯 I’m looking to collaborate on new technologies based on artificial intelligence
+- 🤔 I’m looking for help with learning AI Technologies.
+- 💬 Ask me about Front-end & Back-end for JS.
+- 📫 How to reach me: 
+  - Linkedin : [Yaël Busser](https://www.linkedin.com/in/ya%C3%ABl-busser-00376518a/)
+  - Portfolio : [https://yaelbusser.github.io/portfolio](https://yaelbusser.github.io/portfolio/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Statistics
+[![Yaël Busser's GitHub](https://github-readme-stats.vercel.app/api?username=yaelbusser&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
