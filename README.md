@@ -12,4 +12,4 @@
   - Portfolio : [https://yaelbusser.github.io/portfolio](https://yaelbusser.github.io/portfolio/)
 
 ### Statistics
-[![Yaël Busser's GitHub](https://github-readme-stats.vercel.app/api?username=yaelbusser&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Yaël Busser's Stats Github](https://github-readme-stats.vercel.app/api?username=yaelbusser&show_icons=true&theme=dracula)
