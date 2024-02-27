@@ -9,7 +9,7 @@
 <hr>
 
 <p align="center">
-[Yaël Busser's Stats Github](https://github-readme-stats.vercel.app/api?username=yaelbusser&show_icons=true&theme=dracula)
+      <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=omni" alt="Statistics" />
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=omni" alt="Top languages" />
 </p>
 
