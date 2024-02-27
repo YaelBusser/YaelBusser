@@ -14,8 +14,8 @@
 <hr>
 
 <p align="center">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=omni" alt="User stats" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=omni" alt="Top languages" />
+![Yaël Busser's Stats Github](https://github-readme-stats.vercel.app/api?username=yaelbusser&show_icons=true&theme=dracula)
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=omni" alt="Top languages" />
 </p>
 
 
@@ -29,5 +29,3 @@
   - Linkedin : [Yaël Busser](https://www.linkedin.com/in/ya%C3%ABl-busser-00376518a/)
   - Portfolio : [https://yaelbusser.github.io/portfolio](https://yaelbusser.github.io/portfolio/)
 
-### Statistics
-![Yaël Busser's Stats Github](https://github-readme-stats.vercel.app/api?username=yaelbusser&show_icons=true&theme=dracula)
