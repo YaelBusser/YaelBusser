@@ -2,16 +2,16 @@
 # ✨ I'm Yaël ✨
 <p align="center">
     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=YaelBusser&data=followers,repositories,stars,commits&theme=dark_magic_girl" alt="GitHub WidgetBox" />
-          <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,vue,nuxt,angular,electron,tailwind&tools=git,npm,yarn,webpack,firebase,mongodb,vercel,redis,nodejs,apache,nginx,aws,jupyter,gradle&includeNames=true&theme=dark_magic_girl" alt="GitHub WidgetBox" />
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,java,python,php,c,mysql,postgres,kotlin,haskell,markdown,json,yaml,xml,lua,bash&includeNames=true&theme=dark_magic_girl" alt="GitHub WidgetBox" />
+          <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,vue,electron,tailwind&tools=git,npm,webpack,firebase,mongodb,vercel,redis,nodejs,apache,nginx,jupyter,gradle&includeNames=true&theme=dark_magic_girl" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,java,python,php,csharp,mysql,postgres,flutter,haskell,markdown,json,yaml,bash&includeNames=true&theme=dark_magic_girl" alt="GitHub WidgetBox" />
 </p>
 
 <hr>
 
 <p align="center">
-        <img width="53%" src="https://github-readme-stats.vercel.app/api?username=YaelBusser&count_private=true&show_icons=true&theme=omni" alt="Statistics" />
+        <img width="53%" src="https://github-readme-stats.vercel.app/api?username=YaelBusser&count_private=true&show_icons=true&theme=dark_magic_girl" alt="Statistics" />
 
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=omni" alt="Top languages" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=dark_magic_girl" alt="Top languages" />
 </p>
 
 
