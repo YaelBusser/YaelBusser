@@ -9,9 +9,9 @@
 <hr>
 
 <p align="center">
-        <img width="53%" src="https://github-readme-stats.vercel.app/api?username=YaelBusser&count_private=true&show_icons=true&theme=dark_magic_girl" alt="Statistics" />
+        <img width="53%" src="https://github-readme-stats.vercel.app/api?username=YaelBusser&count_private=true&show_icons=true&theme=dark" alt="Statistics" />
 
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=dark_magic_girl" alt="Top languages" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
 
