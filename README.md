@@ -1,5 +1,6 @@
 ## Hi there 👋
 # ✨ I'm Yaël ✨
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YaelBusser&data=followers,repositories,stars,commits&theme=dark_magic_girl)](https://github.com/Jurredr/github-widgetbox)
 
 ### 👨🏻‍💻 About Me:
 - 🔭 I’m currently working on Makee, a web app where you can manage and participate at challenges ! (Makee)[https://test.makee.io/]
