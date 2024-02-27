@@ -1,20 +1,15 @@
 ## Hi there 👋
 # ✨ I'm Yaël ✨
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YaelBusser&data=followers,repositories,stars,commits&theme=dark_magic_girl)](https://github.com/Jurredr/github-widgetbox)
 <p align="center">
-  <a href="https://github.com/Jurredr/github-widgetbox">
-    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WidgetBox" />
-  </a>
-  <a href="https://github.com/Jurredr/github-widgetbox">
-          <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,vue,nuxt,angular,electron,tailwind&tools=git,npm,yarn,webpack,firebase,mongodb,vercel,redis,nodejs,apache,nginx,aws,jupyter,gradle&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,java,python,php,c,mysql,postgres,kotlin,haskell,markdown,json,yaml,xml,lua,bash&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
-  </a>
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=YaelBusser&data=followers,repositories,stars,commits&theme=dark_magic_girl" alt="GitHub WidgetBox" />
+          <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,vue,nuxt,angular,electron,tailwind&tools=git,npm,yarn,webpack,firebase,mongodb,vercel,redis,nodejs,apache,nginx,aws,jupyter,gradle&includeNames=true&theme=dark_magic_girl" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,java,python,php,c,mysql,postgres,kotlin,haskell,markdown,json,yaml,xml,lua,bash&includeNames=true&theme=dark_magic_girl" alt="GitHub WidgetBox" />
 </p>
 
 <hr>
 
 <p align="center">
-![Yaël Busser's Stats Github](https://github-readme-stats.vercel.app/api?username=yaelbusser&show_icons=true&theme=dracula)
+[Yaël Busser's Stats Github](https://github-readme-stats.vercel.app/api?username=yaelbusser&show_icons=true&theme=dracula)
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=omni" alt="Top languages" />
 </p>
 
