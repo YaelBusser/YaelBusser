@@ -9,7 +9,8 @@
 <hr>
 
 <p align="center">
-      <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=omni" alt="Statistics" />
+        <img width="53%" src="https://github-readme-stats.vercel.app/api?username=YaelBusser&count_private=true&show_icons=true&theme=omni" alt="Statistics" />
+
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=omni" alt="Top languages" />
 </p>
 
