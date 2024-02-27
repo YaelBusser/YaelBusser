@@ -2,6 +2,8 @@
 # ✨ I'm Yaël ✨
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YaelBusser&data=followers,repositories,stars,commits&theme=dark_magic_girl)](https://github.com/Jurredr/github-widgetbox)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,php,python,html,css,csharp,dart,json,yaml,postgresql,mysql,powershell,sass,graphql,markdown&theme=dark_magic_girl&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,django,flutter,electron,bootstrap,jest,tailwind,express,laravel,ionic&theme=dark_magic_girl)](https://github.com/Jurredr/github-widgetbox)
+
 
 ### 👨🏻‍💻 About Me:
 - 🔭 I’m currently working on Makee, a web app where you can manage and participate at challenges ! (Makee)[https://test.makee.io/]
