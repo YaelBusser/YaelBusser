@@ -18,7 +18,7 @@
 ### 👨🏻‍💻 About Me:
 - 🔭 I’m currently working on Makee, a web app where you can manage and participate in challenges ! (Makee)[https://test.makee.io/]
 - 🌱 I’m currently learning React Native in order to develop a mobile application for a project in concert with 4 mates in my school.
-- 👯 I’m looking to collaborate on new technologies based on artificial intelligence.
+- 👯 I’m looking to collaborate on new technologies based on WebGL (for developping 3D web apps).
 - 🤔 I’m looking for help with learning AI Technologies.
 - 💬 Ask me about Front-end & Back-end for JS.
 - 📫 How to reach me: 
