@@ -3,7 +3,7 @@
 <p align="center">
     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=YaelBusser&data=followers,repositories,stars,commits&theme=dark_magic_girl" alt="GitHub WidgetBox" />
           <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,vue,electron,tailwind&tools=git,npm,webpack,mongodb,redis,nodejs,apache,nginx,gradle&includeNames=true&theme=dark_magic_girl" alt="GitHub WidgetBox" />
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,java,python,php,csharp,mysql,postgres,flutter,haskell,markdown,json,yaml,bash&includeNames=true&theme=dark_magic_girl" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,java,python,php,csharp,mysql,flutter,markdown,json&includeNames=true&theme=dark_magic_girl" alt="GitHub WidgetBox" />
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dario208&theme=nightowl&hide_border=false" alt="Github Herokuapp"/>
 </p>
 
