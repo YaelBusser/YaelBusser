@@ -4,7 +4,7 @@
     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=YaelBusser&data=followers,repositories,stars,commits&theme=dark_magic_girl" alt="GitHub WidgetBox" />
           <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,vue,electron,tailwind&tools=git,npm,webpack,firebase,mongodb,vercel,redis,nodejs,apache,nginx,jupyter,gradle&includeNames=true&theme=dark_magic_girl" alt="GitHub WidgetBox" />
     <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,java,python,php,csharp,mysql,postgres,flutter,haskell,markdown,json,yaml,bash&includeNames=true&theme=dark_magic_girl" alt="GitHub WidgetBox" />
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=dario208&theme=nightowl&hide_border=false)<br/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dario208&theme=nightowl&hide_border=false" alt="Github Herokuapp"/>
 </p>
 
 <hr>
