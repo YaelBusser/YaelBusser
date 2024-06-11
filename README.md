@@ -5,16 +5,16 @@
     <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,java,python,php,csharp,mysql,flutter,markdown,json&includeNames=true&theme=dracula" alt="GitHub WidgetBox" />
 </p>
 <hr/>
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dario208&theme=dracula&bg_color=00000000&hide_border=true" alt="Github Herokuapp"/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dario208&theme=dracula&hide_border=true" alt="Github Herokuapp"/>
 <p align="center">
   <a href="https://github.com/yaelbusser">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaelBusser&theme=dracula&bg_color=00000000&hide_border=true" alt="Yael Busser GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaelBusser&theme=dracula&hide_border=true" alt="Yael Busser GitHub Contribution"/>
   </a>
 </p>
 <hr/>
 <p align="center">
-    <img width="auto" src="https://github-readme-stats.vercel.app/api?username=YaelBusser&count_private=true&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true" alt="Statistics" />
-    <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=dracula&bg_color=00000000&hide_border=true" alt="Top languages" />
+    <img width="auto" src="https://github-readme-stats.vercel.app/api?username=YaelBusser&count_private=true&show_icons=true&theme=dracula&hide_border=true" alt="Statistics" />
+    <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
 
 </p>
 
