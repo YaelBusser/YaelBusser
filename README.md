@@ -37,8 +37,8 @@
 <a href="https://visitorbadge.io/status?path=yaelbusser"><img src="https://api.visitorbadge.io/api/visitors?path=yaelbusser&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 <a href="https://github.com/yaelbusser?tab=repositories"><img src="https://img.shields.io/github/stars/yaelbusser?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 
-<div align="left" style="background-color: #282a36">
-<p  style="color: red">- 🔭 I’m currently working on Makee, a web app where you can manage and participate in challenges ! (Makee)[https://test.makee.io/]</p>
+<div align="left" style="padding: 20px; border-radius: 20px; font-family: Bahnschrift,Candara;background-color: #282a36">
+<p>- 🔭 I’m currently working on Makee, a web app where you can manage and participate in challenges ! (Makee)[https://test.makee.io/]</p>
 <p>- 🌱 I’m currently learning React Native in order to develop a mobile application for a project in concert with 4 mates in my school.</p>
 <p>- 👯 I’m looking to collaborate on new technologies based on WebGL (for developping 3D web apps).</p>
 <p>- 🤔 I’m looking for help with learning AI Technologies.</p>
