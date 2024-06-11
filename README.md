@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=5000&pause=5000&color=bd93f9&background=282a36&center=true&vCenter=true&random=false&width=500&lines=Hello!+I'm+Ya%C3%ABl+Busser)](https://git.io/typing-svg)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&duration=5000&pause=5000&color=bd93f9&background=282a36&center=true&vCenter=true&random=false&width=500&lines=Hello!+I'm+Ya%C3%ABl+Busser" />
+</div>
 <p align="center">
     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=YaelBusser&data=followers,repositories,stars,commits&theme=dracula" alt="GitHub WidgetBox" />
     <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,vue,electron,tailwind&tools=git,npm,mongodb,nodejs,apache&includeNames=true&theme=dracula" alt="GitHub WidgetBox" />
@@ -15,8 +17,9 @@
 <p align="center">
     <img width="auto" src="https://github-readme-stats.vercel.app/api?username=YaelBusser&count_private=true&show_icons=true&theme=dracula&hide_border=true" alt="Statistics" />
     <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
-
 </p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1eb0acac-5140-4ba3-bc53-54f1b18abde7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 👨🏻‍💻 About Me
@@ -29,6 +32,6 @@
 - 🤔 I’m looking for help with learning AI Technologies.
 - 💬 Ask me about Front-end & Back-end for JS.
 - 📫 How to reach me: 
-  - LinkedIn : [Yaël Busser](https://www.linkedin.com/in/ya%C3%ABl-busser-00376518a/)
+  - LinkedIn : [Yaël Busser](https://www.linkedin.com/in/yaël-busser-00376518a//)
   - Portfolio : [https://yaelbusser.github.io/portfolio3d](https://yaelbusser.github.io/portfolio/)
 
