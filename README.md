@@ -1,4 +1,12 @@
-<div align="center" style="border-radius: 20px; background-color: #282a36; margin-top: 1rem; padding-top: .5rem;">
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .header {
+          border-radius: 20px; background-color: #282a36; margin-top: 1rem; padding-top: .5rem;
+        }
+      </style>
+<div align="center" class="header">
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&duration=5000&pause=5000&color=bd93f9&center=true&vCenter=true&random=false&width=500&lines=Hello!+I'm+Ya%C3%ABl+Busser" />
 </div>
 <p align="center">
@@ -39,4 +47,7 @@
 - 📫 How to reach me: 
   - LinkedIn : [Yaël Busser](https://www.linkedin.com/in/yaël-busser-00376518a//)
   - Portfolio : [https://yaelbusser.github.io/portfolio3d](https://yaelbusser.github.io/portfolio/)
+</div>
+  </foreignObject>
+</svg>
 
