@@ -1,16 +1,16 @@
 ## Hi there 👋
 # ✨ I'm Yaël ✨
 <p align="center">
-    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=YaelBusser&data=followers,repositories,stars,commits&theme=dark_magic_girl" alt="GitHub WidgetBox" />
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,vue,electron,tailwind&tools=git,npm,mongodb,nodejs,apache&includeNames=true&theme=dark_magic_girl" alt="GitHub WidgetBox" />
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,java,python,php,csharp,mysql,flutter,markdown,json&includeNames=true&theme=dark_magic_girl" alt="GitHub WidgetBox" />
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=YaelBusser&data=followers,repositories,stars,commits&theme=nightowl" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,vue,electron,tailwind&tools=git,npm,mongodb,nodejs,apache&includeNames=true&theme=nightowl" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,java,python,php,csharp,mysql,flutter,markdown,json&includeNames=true&theme=nightowl" alt="GitHub WidgetBox" />
 </p>
 <hr>
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dario208&theme=nightowl&hide_border=false" alt="Github Herokuapp"/>
 <hr>
 <p align="center">
-    <img width="53%" src="https://github-readme-stats.vercel.app/api?username=YaelBusser&count_private=true&show_icons=true&theme=dark" alt="Statistics" />
-    <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=dark" alt="Top languages" />
+    <img width="53%" src="https://github-readme-stats.vercel.app/api?username=YaelBusser&count_private=true&show_icons=true&theme=nightowl" alt="Statistics" />
+    <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=nightowl" alt="Top languages" />
 </p>
 
 
