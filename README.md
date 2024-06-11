@@ -1,4 +1,4 @@
-<div align="center" style="border-radius: 20px; background-color: #282a36; margin-top: 1rem; padding-top: .5rem;">
+<div align="center" style="border-radius: 20px; background-color: red; margin-top: 1rem; padding-top: .5rem;">
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&duration=5000&pause=5000&color=bd93f9&center=true&vCenter=true&random=false&width=500&lines=Hello!+I'm+Ya%C3%ABl+Busser" />
 </div>
 <p align="center">
