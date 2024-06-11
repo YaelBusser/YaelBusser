@@ -21,7 +21,7 @@
     <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelbusser&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
 </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1eb0acac-5140-4ba3-bc53-54f1b18abde7)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1eb0acac-5140-4ba3-bc53-54f1b18abde7)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=1eb0acac-5140-4ba3-bc53-54f1b18abde7))
 
 ### 👨🏻‍💻 About Me
 
