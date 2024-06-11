@@ -30,7 +30,7 @@
 <a href="https://github.com/yaelbusser?tab=repositories"><img src="https://img.shields.io/github/stars/yaelbusser?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 
 <div align="left">
-<p>- 🔭 I’m currently working on Makee, a web app where you can manage and participate in challenges ! (Makee)[https://test.makee.io/]</p>
+<p>- 🔭 I’m currently working on Makee, a web app where you can manage and participate in challenges ! <a href="https://test.makee.io/">Makee</a>)</p>
 <p>- 🌱 I’m currently learning React Native in order to develop a mobile application for a project in concert with 4 mates in my school.</p>
 <p>- 👯 I’m looking to collaborate on new technologies based on WebGL (for developping 3D web apps).</p>
 <p>- 🤔 I’m looking for help with learning AI Technologies.</p>
@@ -38,4 +38,4 @@
 </div>
 - 📫 How to reach me: 
   - LinkedIn : [Yaël Busser](https://www.linkedin.com/in/yaël-busser-00376518a//)
-  - Portfolio : [https://yaelbusser.github.io/portfolio3d](https://yaelbusser.github.io/portfolio/)
+  - Portfolio : <a href="https://yaelbusser.github.io/portfolio3d">https://yaelbusser.github.io/portfolio3d</a>
