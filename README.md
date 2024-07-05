@@ -1,7 +1,7 @@
 <div align="center" style="border-radius: 20px; background-color: #282a36; margin-top: 1rem; padding-top: .5rem;">
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&duration=5000&pause=5000&color=bd93f9&center=true&vCenter=true&random=false&width=500&lines=Hello!+I'm+Ya%C3%ABl+Busser" />
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=YaelBusser&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=YaelBusser&column=10&theme=gruvbox&no-frame=true"/>
 <p align="center">
     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=YaelBusser&data=followers,repositories,stars,commits&theme=dracula" alt="GitHub WidgetBox" />
 </p>
